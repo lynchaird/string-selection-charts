@@ -1,0 +1,1 @@
+Python scripts for generating large versions of the string design charts, and to replicate some of the case studies, from “Choosing strings for plucked musical instruments” https://doi.org/10.3813/AAA.919333
